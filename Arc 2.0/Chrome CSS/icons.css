@@ -409,7 +409,6 @@ html[zen-single-toolbar="true"] {
 @media (-moz-pref("arc-macos-style-buttons")) {
   .titlebar-buttonbox {
     margin: -2px -2px 0px -4px !important;
-    scale: 0.85 !important;
     transform: translate(0, 0) !important;
     gap: 5px !important;
   }
@@ -556,4 +555,5 @@ html[zen-single-toolbar="true"] {
     }
   }
 }
+
 
